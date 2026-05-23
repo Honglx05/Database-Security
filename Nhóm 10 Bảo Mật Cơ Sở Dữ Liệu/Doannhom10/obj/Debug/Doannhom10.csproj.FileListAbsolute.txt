@@ -1,0 +1,74 @@
+D:\Đồ Án Bảo Mật Cơ Sở Dữ Liệu\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\obj\Debug\Doannhom10.csproj.AssemblyReference.cache
+D:\Đồ Án Bảo Mật Cơ Sở Dữ Liệu\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\obj\Debug\Doannhom10.Properties.Resources.resources
+D:\Đồ Án Bảo Mật Cơ Sở Dữ Liệu\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\obj\Debug\Doannhom10.csproj.GenerateResource.cache
+D:\Đồ Án Bảo Mật Cơ Sở Dữ Liệu\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\obj\Debug\Doannhom10.csproj.CoreCompileInputs.cache
+D:\Đồ Án Bảo Mật Cơ Sở Dữ Liệu\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\Doannhom10.exe.config
+D:\Đồ Án Bảo Mật Cơ Sở Dữ Liệu\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\Doannhom10.exe
+D:\Đồ Án Bảo Mật Cơ Sở Dữ Liệu\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\Doannhom10.pdb
+D:\Đồ Án Bảo Mật Cơ Sở Dữ Liệu\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Đồ Án Bảo Mật Cơ Sở Dữ Liệu\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Đồ Án Bảo Mật Cơ Sở Dữ Liệu\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\System.Buffers.dll
+D:\Đồ Án Bảo Mật Cơ Sở Dữ Liệu\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Đồ Án Bảo Mật Cơ Sở Dữ Liệu\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\System.Formats.Asn1.dll
+D:\Đồ Án Bảo Mật Cơ Sở Dữ Liệu\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\System.Memory.dll
+D:\Đồ Án Bảo Mật Cơ Sở Dữ Liệu\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\System.Numerics.Vectors.dll
+D:\Đồ Án Bảo Mật Cơ Sở Dữ Liệu\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Đồ Án Bảo Mật Cơ Sở Dữ Liệu\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\System.Text.Encodings.Web.dll
+D:\Đồ Án Bảo Mật Cơ Sở Dữ Liệu\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\System.Text.Json.dll
+D:\Đồ Án Bảo Mật Cơ Sở Dữ Liệu\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Đồ Án Bảo Mật Cơ Sở Dữ Liệu\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\System.ValueTuple.dll
+D:\Đồ Án Bảo Mật Cơ Sở Dữ Liệu\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Đồ Án Bảo Mật Cơ Sở Dữ Liệu\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\System.Buffers.xml
+D:\Đồ Án Bảo Mật Cơ Sở Dữ Liệu\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Đồ Án Bảo Mật Cơ Sở Dữ Liệu\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\System.Formats.Asn1.xml
+D:\Đồ Án Bảo Mật Cơ Sở Dữ Liệu\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\System.Memory.xml
+D:\Đồ Án Bảo Mật Cơ Sở Dữ Liệu\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\System.Numerics.Vectors.xml
+D:\Đồ Án Bảo Mật Cơ Sở Dữ Liệu\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Đồ Án Bảo Mật Cơ Sở Dữ Liệu\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\System.Text.Encodings.Web.xml
+D:\Đồ Án Bảo Mật Cơ Sở Dữ Liệu\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\System.Text.Json.xml
+D:\Đồ Án Bảo Mật Cơ Sở Dữ Liệu\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Đồ Án Bảo Mật Cơ Sở Dữ Liệu\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\System.ValueTuple.xml
+D:\Đồ Án Bảo Mật Cơ Sở Dữ Liệu\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\obj\Debug\Doannhom10.frmRegister.resources
+D:\Đồ Án Bảo Mật Cơ Sở Dữ Liệu\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\obj\Debug\Doannhom10.csproj.Up2Date
+D:\Đồ Án Bảo Mật Cơ Sở Dữ Liệu\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\obj\Debug\Doannhom10.exe
+D:\Đồ Án Bảo Mật Cơ Sở Dữ Liệu\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\obj\Debug\Doannhom10.pdb
+D:\Đồ Án Bảo Mật Cơ Sở Dữ Liệu\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\obj\Debug\Doannhom10.exe.config
+D:\Đồ Án Bảo Mật Cơ Sở Dữ Liệu\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\obj\Debug\Doannhom10.frmLogin.resources
+D:\Đồ Án Bảo Mật Cơ Sở Dữ Liệu\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\obj\Debug\Doannhom10.frmStudentManagement.resources
+D:\DA_BMCSDL\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\Doannhom10.exe.config
+D:\DA_BMCSDL\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\Doannhom10.exe
+D:\DA_BMCSDL\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\Doannhom10.pdb
+D:\DA_BMCSDL\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DA_BMCSDL\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\DA_BMCSDL\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\System.Buffers.dll
+D:\DA_BMCSDL\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\DA_BMCSDL\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\System.Formats.Asn1.dll
+D:\DA_BMCSDL\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\System.Memory.dll
+D:\DA_BMCSDL\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\System.Numerics.Vectors.dll
+D:\DA_BMCSDL\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DA_BMCSDL\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\System.Text.Encodings.Web.dll
+D:\DA_BMCSDL\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\System.Text.Json.dll
+D:\DA_BMCSDL\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\DA_BMCSDL\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\System.ValueTuple.dll
+D:\DA_BMCSDL\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\DA_BMCSDL\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\System.Buffers.xml
+D:\DA_BMCSDL\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\DA_BMCSDL\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\System.Formats.Asn1.xml
+D:\DA_BMCSDL\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\System.Memory.xml
+D:\DA_BMCSDL\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\System.Numerics.Vectors.xml
+D:\DA_BMCSDL\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DA_BMCSDL\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\System.Text.Encodings.Web.xml
+D:\DA_BMCSDL\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\System.Text.Json.xml
+D:\DA_BMCSDL\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\DA_BMCSDL\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\bin\Debug\System.ValueTuple.xml
+D:\DA_BMCSDL\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\obj\Debug\Doannhom10.csproj.AssemblyReference.cache
+D:\DA_BMCSDL\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\obj\Debug\Doannhom10.exe.config
+D:\DA_BMCSDL\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\obj\Debug\Doannhom10.frmLogin.resources
+D:\DA_BMCSDL\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\obj\Debug\Doannhom10.frmRegister.resources
+D:\DA_BMCSDL\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\obj\Debug\Doannhom10.frmStudentManagement.resources
+D:\DA_BMCSDL\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\obj\Debug\Doannhom10.Properties.Resources.resources
+D:\DA_BMCSDL\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\obj\Debug\Doannhom10.csproj.GenerateResource.cache
+D:\DA_BMCSDL\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\obj\Debug\Doannhom10.csproj.CoreCompileInputs.cache
+D:\DA_BMCSDL\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\obj\Debug\Doannhom10.csproj.Up2Date
+D:\DA_BMCSDL\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\obj\Debug\Doannhom10.exe
+D:\DA_BMCSDL\Nhóm 10 Bảo Mật Cơ Sở Dữ Liệu\Doannhom10\obj\Debug\Doannhom10.pdb
