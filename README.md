@@ -3,7 +3,7 @@
 Kho lưu trữ này chứa mã nguồn C# (Windows Forms) và kịch bản cơ sở dữ liệu Oracle của dự án môn học Bảo mật Cơ sở dữ liệu tại trường Đại học Công Thương TP.HCM (HUIT).
 
 ## 👥 Thành viên Nhóm 10
-Dự án được thiết kế cho nhóm 5 thành viên:
+Dự án được thiết kế cho nhóm 3 thành viên:
 1. **Lê Xuân Hồng** (2033230099) - Phát triển chính (Thực hiện 100% khối lượng công việc thực tế của đồ án)
 2. **Phạm Lan Anh** (2033230006)
 3. **Nguyễn Võ Nhựt Minh** (20332166486)
