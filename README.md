@@ -7,8 +7,6 @@ Dự án được thiết kế cho nhóm 5 thành viên:
 1. **Lê Xuân Hồng** (2033230099) - Phát triển chính (Thực hiện 100% khối lượng công việc thực tế của đồ án)
 2. **Phạm Lan Anh** (2033230006)
 3. **Nguyễn Võ Nhựt Minh** (20332166486)
-4. [Điền tên thành viên thứ 4]
-5. [Điền tên thành viên thứ 5]
 
 ## 📁 Cấu trúc thư mục
 - 📂 `Code/`: Chứa toàn bộ mã nguồn của ứng dụng giao diện.
