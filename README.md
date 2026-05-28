@@ -13,6 +13,7 @@ Kho lưu trữ này chứa mã nguồn C# (Windows Forms) và kịch bản cơ s
 1. Chạy file `sys.sql` bằng tài khoản quản trị (System/sysdba) trên Oracle để tạo các Tablespace (TBS_QLSV), thiết lập Profile và phân quyền cơ bản.
 2. Chạy file `QLSV.sql` để khởi tạo cấu trúc các bảng và chèn dữ liệu mẫu.
 3. Mở thư mục `Code`, cập nhật lại chuỗi kết nối (Connection String) trong project C# và chạy ứng dụng.
+4. Sửa đường dẫn DataSource nếu khác "localhost:1521/orcl21" cho phù hợp với cấu hình máy của bạn.
 
 ## 🛠️ Các kỹ thuật bảo mật đã áp dụng
 Đồ án tích hợp hệ thống bảo mật đa lớp nhằm đảm bảo Tính bí mật, Tính toàn vẹn và Tính sẵn sàng:
